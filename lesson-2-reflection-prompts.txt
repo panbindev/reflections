@@ -1,0 +1,26 @@
+What happens when you initialize a repository? Why do you need to do it?
+初始化版本库时会发生什么情况？为什么你需要这样做？
+
+创建此文件后，你可能还要运行 git status。此时，你应看到这两个文件均列出为未被跟踪的文件。
+
+创建并更新了第 2 课的思考文档后，单击“下一项”。
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+暂存区与工作目录和版本库有何不同？你认为它具有什么价值？
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+图表如何帮助你直观显示分支结构？
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+在哪些情况下，分支可以帮助你有序地组织历史记录？分支将如何提供帮助？
+
+How do the diagrams help you visualize the branch structure?
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
